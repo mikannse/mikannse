@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm mikannse
 
-<!--
-**mikannse/mikannse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Security Engineer** focused on:
 
-Here are some ideas to get you started:
+* **SDL** — Security Development Lifecycle
+* **DevSecOps** — Integrating security into development and delivery
+* **AI Security** — Exploring the security of AI applications and LLMs
+* **SOC** — Security Operations, Detection & Response
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I spend most of my time working on security engineering and exploring new security technologies.
+
+Outside of work, I enjoy building **interesting tools, experiments, and random side projects** just for the fun of it.
+
+> **Build. Break. Secure. Repeat.** 🚀
